@@ -53,6 +53,3 @@ Se desideri contribuire a questo progetto, segui questi passi:
 4.  Fai il push al tuo fork (`git push origin nome-funzionalita`).
 5.  Crea una Pull Request.
 
-## Licenza
-
-Questo progetto è rilasciato sotto la licenza [SPECIFICARE_LA_LICENZA], (ad es. MIT License).
