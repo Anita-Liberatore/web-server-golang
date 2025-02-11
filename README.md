@@ -18,7 +18,7 @@ Assicurati di avere Go installato nel tuo sistema. Puoi scaricare Go da [https:/
 
 1.  **Clona il repository:**
     ```bash
-    git clone <URL_DEL_TUO_REPOSITORY>
+    git clone https://github.com/Anita-Liberatore/web-server-golang.git
     cd web-server-golang
     ```
 
